@@ -9,7 +9,6 @@ It includes **data cleaning, Pivot Tables, Charts, and a Dashboard**.
 - **Total Sales:** $XXX,XXX  
 - **Best-Selling Product:** Product Name  
 - **Top Region:** Region Name  
-- **Sales Trend:** [Insert Insights]  
 
 ## 🚀 Skills Used
 - Data Cleaning
@@ -25,12 +24,6 @@ It includes **data cleaning, Pivot Tables, Charts, and a Dashboard**.
 
 This project analyzes sales trends using **Microsoft Excel**.  
 It includes **data cleaning, Pivot Tables, Charts, and a Dashboard**.
-
-## 📌 Key Insights
-- **Total Sales:** $XXX,XXX  
-- **Best-Selling Product:** Product Name  
-- **Top Region:** Region Name  
-- **Sales Trend:** [Insert Insights]  
 
 ## 🚀 Skills Used
 - Data Cleaning
