@@ -8,6 +8,7 @@ It includes **data cleaning, Pivot Tables, Charts, and a Dashboard**.
 - **Best-Selling Product:** Laptop  
 - **Top Region:** Central  
 - **Sales Trend:** 
+
 January 2025: ₹5,296.79
 
 February 2025: ₹2,072.28
