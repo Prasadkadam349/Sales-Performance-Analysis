@@ -6,9 +6,9 @@ This project analyzes sales trends using **Microsoft Excel**.
 It includes **data cleaning, Pivot Tables, Charts, and a Dashboard**.
 
 ## 📌 Key Insights
-- **Total Sales:** $XXX,XXX  
-- **Best-Selling Product:** Product Name  
-- **Top Region:** Region Name  
+- **Total Sales:** ₹ 47,800.25  
+- **Best-Selling Product:** Laptop 
+- **Top Region:** Central  
 
 ## 🚀 Skills Used
 - Data Cleaning
